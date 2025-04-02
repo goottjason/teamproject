@@ -10,7 +10,8 @@
 </head>
 <body>
 	<jsp:include page="./header.jsp"></jsp:include>
-	<h1>index6666123.jsp</h1>
+	<h1>indexFINAL.jsp</h1>
+
 	
 </body>
 </html>
